@@ -48,6 +48,7 @@ language: Español (Chile)
     "1/128 Quarter" = "1/128 de un Cuarto"
     "Do Not Snap" = "No Ajustar"
     "Adaptive Snapping" = "Ajustamiento Adaptivo"
+    "Adaptive" = "Ajustamiento Adaptivo"
   "Multi-edit Tool" = "Herramienta de Multi-edición"
   "Pencil Tool" = "Lápiz"
   "Line Tool (Parameters)" = "Línea (Parámetros)"
@@ -143,6 +144,7 @@ language: Español (Chile)
 "Transport" = "Transporte"
   "Playback" = "Reproducción"
   "Play" = "Reproducir"
+  "Record" = "Grabar"
   "Pause" = "Pausar"
   "Stop" = "Parar"
   "Loop Over Selected Notes" = "Bucle (en Notas Seleccionadas)"
@@ -689,8 +691,8 @@ language: Español (Chile)
 
 "Selection cleared." = "选择已清空。"
 "Current selection:" = "当前选择："
-"_ notes" = "_ 个音符"
-"_ groups" = "_ 个音符组"
+"_ notes" = "_ notas"
+"_ groups" = "_ grupos"
 "_ control points" = "_ 个控制点"
 
 "Multi-editing tool: _." = "多功能编辑工具：_。"
