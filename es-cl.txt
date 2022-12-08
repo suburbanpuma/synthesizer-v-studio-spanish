@@ -177,6 +177,7 @@ language: Español (Chile)
     "Abort" = "Cancelar"
 
 "Piano Roll" = "Piano"
+  "SNAP:" = "Ajustar a:"
   "Set Tempo here" = "Cambiar Tempo aquí"
   "Set Time Signature here" = "Cambiar la Medida del Compás"
   "Move loop start marker here" = "Mover inicio del bucle aquí"
