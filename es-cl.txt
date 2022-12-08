@@ -359,6 +359,18 @@ language: Español (Chile)
     "No product selected." = "No hay nada seleccionado."
     "Vendor: _" = "Proveedor: _"
     "Version number: _" = "Versión: _"
+    "Version: _" = "Versión: _"
+    "Voice type: _" = "Tipo: _"
+    "Default language: _" = "Lenguaje base: _"
+    "Supported languages: _" = "Lenguajes disponibles: _"
+    "Vocal modes: _" = "Modos vocales: _"
+    "Retomas AI (tono): _" = "Retomas AI (tono): _"
+    "Retomas AI (timbre): _" = "Retomas AI (timbre): _"
+    "supported" = "disponibles"
+    "not supported" = "no disponibles"
+    "japanese" = "japonés"
+    "english" = "inglés"
+    "mandarin chinese" = "chino mandarín"
     "Free product." = "Producto gratis."
     "Paid product (_)." = "Producto pagado (_)."
     "Installation path: _" = "Ruta: _"
@@ -584,7 +596,7 @@ language: Español (Chile)
 "This activation code is for another product." = "Este código de activación es para otro producto."
 "Other error. Please report this incident to Dreamtonics." = "Error desconocido. Por favor, notifica este incidente a Dreamtonics."
 
-"Update" = "Actualización"
+"Update" = "Actualizar"
   "Failed to download update for _." = "No se pudo descargar la actualización de _."
   "Failed to install update packages for _." = "No se pudo instalar la actualización de _."
 
@@ -691,8 +703,8 @@ language: Español (Chile)
 
 "Selection cleared." = "选择已清空。"
 "Current selection:" = "当前选择："
-"_ notes" = "_ notas"
-"_ groups" = "_ grupos"
+"_ notes" = "_ nota(s)"
+"_ groups" = "_ grupo(s)"
 "_ control points" = "_ 个控制点"
 
 "Multi-editing tool: _." = "多功能编辑工具：_。"
